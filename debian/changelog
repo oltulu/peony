@@ -1,13 +1,13 @@
 peony (1.1.2-1) unstable; urgency=medium
 
-  * Adjust the size of the blank cd icon in Desktop. 
+  * Adjust the size of the blank cd icon in Desktop.
   * Change the default font of desktop font.
 
  -- handsome_feng <jianfengli@ubuntukylin.com>  Thu, 26 Apr 2018 09:36:07 +0800
 
 peony (1.1.1-1) unstable; urgency=medium
 
-  * Don't recommend peony-gksu which is being removed 
+  * Don't recommend peony-gksu which is being removed
 
  -- Jeremy Bicha <jbicha@debian.org>  Wed, 18 Apr 2018 08:34:17 -0400
 
@@ -23,7 +23,7 @@ peony (1.1.1-1) unstable; urgency=medium
   * Use PKG_PROG_PKG_CONFIG instead of AC_PATH_PROG.
   * Change the desktop icon size according to different resolution.
   * Improve the translation of 'delete' in right-click menu.
-  * Fix the two deleted issues in the recycle bin. 
+  * Fix the two deleted issues in the recycle bin.
   * Fix the bug that user cannot create launcher on the desktop.
 
  -- handsome_feng <jianfengli@ubuntukylin.com>  Wed, 11 Apr 2018 09:24:38 +0800
@@ -43,7 +43,7 @@ peony (1.1.0-1) unstable; urgency=medium
 peony (1.0.4-1) unstable; urgency=medium
 
   * Modify the BUG of multiple icon views in the upper right corner of
-    the My Computer interface. 
+    the My Computer interface.
 
  -- handsome_feng <jianfengli@ubuntukylin.com>  Wed, 13 Sep 2017 10:30:40 +0800
 

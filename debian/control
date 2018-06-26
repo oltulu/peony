@@ -27,6 +27,8 @@ Build-Depends: debhelper (>= 11),
                shared-mime-info,
 Standards-Version: 4.1.4
 Homepage: http://www.ukui.org/
+Vcs-Git: https://github.com/ukui/peony.git
+Vcs-Browser: https://github.com/ukui/peony
 
 Package: peony
 Architecture: any
